@@ -1,0 +1,3 @@
+# Kasutamine
+
+`node install.sh`
